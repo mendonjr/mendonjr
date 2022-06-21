@@ -5,6 +5,13 @@
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 <!--START_SECTION:waka-->
+
+```text
+Git Config   7 mins          █████████████▒░░░░░░░░░░░   53.66 %
+Java         6 mins          ███████████▒░░░░░░░░░░░░░   45.64 %
+JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+```
+
 <!--END_SECTION:waka-->
 - 🌱 I’m currently learning:
 ![Selenium Badge](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white)
