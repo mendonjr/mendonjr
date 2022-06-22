@@ -7,13 +7,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-92-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-113-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 50 Contributions in the Year 2022
+> 🏆 51 Contributions in the Year 2022
  > 
 > 📦 12.6 kB Used in GitHub's Storage 
  > 
@@ -26,9 +26,9 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    14 commits     █████████░░░░░░░░░░░░░░░░   36.84% 
-🌆 Daytime    23 commits     ███████████████░░░░░░░░░░   60.53% 
-🌃 Evening    1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.63% 
+🌞 Morning    15 commits     █████████░░░░░░░░░░░░░░░░   38.46% 
+🌆 Daytime    23 commits     ██████████████░░░░░░░░░░░   58.97% 
+🌃 Evening    1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.56% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
@@ -36,12 +36,12 @@
 
 ```text
 Monday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Tuesday      14 commits     █████████░░░░░░░░░░░░░░░░   36.84% 
-Wednesday    2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.26% 
-Thursday     2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.26% 
+Tuesday      15 commits     █████████░░░░░░░░░░░░░░░░   38.46% 
+Wednesday    2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.13% 
+Thursday     2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.13% 
 Friday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Saturday     3 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.89% 
-Sunday       17 commits     ███████████░░░░░░░░░░░░░░   44.74%
+Saturday     3 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
+Sunday       17 commits     ███████████░░░░░░░░░░░░░░   43.59%
 
 ```
 
@@ -74,12 +74,8 @@ HTML                     1 repo              ████████░░░�
 ```
 
 
-**Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/mendonjr/mendonjr/master/charts/bar_graph.png) 
-
-
- Last Updated on 21/06/2022 06:07:55 UTC
+ Last Updated on 22/06/2022 01:08:56 UTC
 <!--END_SECTION:waka-->
 - 🌱 I’m currently learning:
 ![Selenium Badge](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white)
