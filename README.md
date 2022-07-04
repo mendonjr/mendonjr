@@ -78,7 +78,7 @@ HTML                     1 repo              ████████░░░�
 ![Selenium Badge](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white)
 ![Cypress Badge](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
 - 👯 I’m looking to collaborate on:
-<a href="#"><img src="https://img.shields.io/badge/Open%20Source-yellow?style=flat-square"></a>
+<a href="#"><img src="https://img.shields.io/badge/Open%20Source-cyan?style=flat-square"></a>
 - 🤔 I’m looking for help with :
 ![CodeChef Badge](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=flat-square&logo=Codechef&logoColor=white)
 
