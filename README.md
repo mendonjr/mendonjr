@@ -7,7 +7,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-109-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-150-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6%20Thousand%20lines%20of%20code-blue)
 
@@ -52,13 +52,13 @@ Sunday       17 commits     ███████████░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     6 mins              █████████████████████████   100.0%
+Java                     14 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-Eclipse                  6 mins              █████████████████████████   100.0%
+Eclipse                  14 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  6 mins              █████████████████████████   100.0%
+Windows                  14 mins             █████████████████████████   100.0%
 
 ```
 
@@ -72,7 +72,7 @@ HTML                     1 repo              ████████░░░�
 
 
 
- Last Updated on 03/07/2022 09:44:54 UTC
+ Last Updated on 04/07/2022 00:57:37 UTC
 <!--END_SECTION:waka-->
 - 🌱 I’m currently learning:
 ![Selenium Badge](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white)
