@@ -5,15 +5,15 @@
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-150-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-165-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 52 Contributions in the Year 2022
+> 🏆 53 Contributions in the Year 2022
  > 
 > 📦 12.6 kB Used in GitHub's Storage 
  > 
@@ -26,22 +26,22 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    15 commits     █████████░░░░░░░░░░░░░░░░   38.46% 
-🌆 Daytime    23 commits     ██████████████░░░░░░░░░░░   58.97% 
-🌃 Evening    1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.56% 
+🌞 Morning    15 commits     █████████░░░░░░░░░░░░░░░░   37.5% 
+🌆 Daytime    23 commits     ██████████████░░░░░░░░░░░   57.5% 
+🌃 Evening    2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.0% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Tuesday      15 commits     █████████░░░░░░░░░░░░░░░░   38.46% 
-Wednesday    2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.13% 
-Thursday     2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.13% 
+Monday       1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.5% 
+Tuesday      15 commits     █████████░░░░░░░░░░░░░░░░   37.5% 
+Wednesday    2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.0% 
+Thursday     2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.0% 
 Friday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Saturday     3 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
-Sunday       17 commits     ███████████░░░░░░░░░░░░░░   43.59%
+Saturday     3 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.5% 
+Sunday       17 commits     ██████████░░░░░░░░░░░░░░░   42.5%
 
 ```
 
@@ -72,7 +72,7 @@ HTML                     1 repo              ████████░░░�
 
 
 
- Last Updated on 04/07/2022 15:01:45 UTC
+ Last Updated on 05/07/2022 00:54:49 UTC
 <!--END_SECTION:waka-->
 - 🌱 I’m currently learning:
 ![Selenium Badge](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white)
