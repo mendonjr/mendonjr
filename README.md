@@ -72,7 +72,7 @@ HTML                     1 repo              ████████░░░�
 
 
 
- Last Updated on 07/07/2022 00:55:17 UTC
+ Last Updated on 08/07/2022 00:58:42 UTC
 <!--END_SECTION:waka-->
 - 🌱 I’m currently learning:
 ![Selenium Badge](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white)
