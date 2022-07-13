@@ -87,6 +87,6 @@ HTML                     1 repo              ██████░░░░░�
 ![DevOps Badge](https://img.shields.io/badge/Azure_DevOps-0078D7?style=plastic&logo=azure-devops&logoColor=white)
 
 - 📫 **How to reach me**:
- [![Linkedin Badge](https://img.shields.io/badge/-mendonjr-white?style=plastic&logo=Linkedin&logoColor=blue&link=https://linkedin.com/in/mendonjr-65840443/)](https://linkedin.com/in/mendonjr-65840443)
-[![Twitter Badge](https://img.shields.io/badge/-@mendonjrr-white?style=plastic&logo=twitter&logoColor=blue&link=https://twitter.com/mendonjrr)](https://twitter.com/mendonjrr)
-[![Gmail Badge](https://img.shields.io/badge/-prasadmendon744@gmail.com-white?style=plastic&logo=Gmail&logoColor=red&link=mailto:prasadmendon744@gmail.com)](mailto:prasadmendon744@gmail.com)
+ [![Linkedin Badge](https://img.shields.io/badge/-mendonjr-white?style=social&logo=Linkedin&logoColor=blue&link=https://linkedin.com/in/mendonjr-65840443/)](https://linkedin.com/in/mendonjr-65840443)
+[![Twitter Badge](https://img.shields.io/badge/-@mendonjrr-white?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/mendonjrr)](https://twitter.com/mendonjrr)
+[![Gmail Badge](https://img.shields.io/badge/-prasadmendon744@gmail.com-white?style=social&logo=Gmail&logoColor=red&link=mailto:prasadmendon744@gmail.com)](mailto:prasadmendon744@gmail.com)
