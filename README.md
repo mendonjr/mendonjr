@@ -82,7 +82,7 @@ HTML                     1 repo              ██████░░░░░�
 ![Selenium Badge](https://img.shields.io/badge/Selenium-43B02A?style=plastic&logo=Selenium&logoColor=white)
 ![Cypress Badge](https://img.shields.io/badge/Cypress-17202C?style=plastic&logo=cypress&logoColor=white)
 - 👯 **I’m looking to collaborate on**:
-<a href="#"><img src="https://img.shields.io/badge/Open%20Source-cyan?style=plastic"></a>
+<a href="#"><img src="https://img.shields.io/badge/Open%20Source-success?style=plastic"></a>
 - 🤔 **I’m looking for help with** :
 ![DevOps Badge](https://img.shields.io/badge/Azure_DevOps-0078D7?style=plastic&logo=azure-devops&logoColor=white)
 
