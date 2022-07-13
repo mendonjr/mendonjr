@@ -2,8 +2,8 @@
 
 
 -🔭 **I’m currently working on:** 
-![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=plastic&logo=typescript&logoColor=white)
+![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=java&logoColor=white)
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
@@ -79,15 +79,15 @@ HTML                     1 repo              ██████░░░░░�
  Last Updated on 13/07/2022 00:51:23 UTC
 <!--END_SECTION:waka-->
 - 🌱 **I’m currently learning**:
-![Selenium Badge](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white)
-![Cypress Badge](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
+![Selenium Badge](https://img.shields.io/badge/Selenium-43B02A?style=plastic&logo=Selenium&logoColor=white)
+![Cypress Badge](https://img.shields.io/badge/Cypress-17202C?style=plastic&logo=cypress&logoColor=white)
 - 👯 **I’m looking to collaborate on**:
-<a href="#"><img src="https://img.shields.io/badge/Open%20Source-cyan?style=flat-square"></a>
+<a href="#"><img src="https://img.shields.io/badge/Open%20Source-cyan?style=plastic"></a>
 - 🤔 **I’m looking for help with** :
-![CodeChef Badge](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=flat-square&logo=Codechef&logoColor=white)
-![DevOps Badge](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white)
+![CodeChef Badge](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=plastic&logo=Codechef&logoColor=white)
+![DevOps Badge](https://img.shields.io/badge/Azure_DevOps-0078D7?style=plastic&logo=azure-devops&logoColor=white)
 
 - 📫 **How to reach me**:
- [![Linkedin Badge](https://img.shields.io/badge/-mendonjr-white?style=flat-square&logo=Linkedin&logoColor=blue&link=https://linkedin.com/in/mendonjr-65840443/)](https://linkedin.com/in/mendonjr-65840443)
-[![Twitter Badge](https://img.shields.io/badge/-@mendonjrr-white?style=flat-square&logo=twitter&logoColor=blue&link=https://twitter.com/mendonjrr)](https://twitter.com/mendonjrr)
-[![Gmail Badge](https://img.shields.io/badge/-prasadmendon744@gmail.com-white?style=flat-square&logo=Gmail&logoColor=red&link=mailto:prasadmendon744@gmail.com)](mailto:prasadmendon744@gmail.com)
+ [![Linkedin Badge](https://img.shields.io/badge/-mendonjr-white?style=plastic&logo=Linkedin&logoColor=blue&link=https://linkedin.com/in/mendonjr-65840443/)](https://linkedin.com/in/mendonjr-65840443)
+[![Twitter Badge](https://img.shields.io/badge/-@mendonjrr-white?style=plastic&logo=twitter&logoColor=blue&link=https://twitter.com/mendonjrr)](https://twitter.com/mendonjrr)
+[![Gmail Badge](https://img.shields.io/badge/-prasadmendon744@gmail.com-white?style=plastic&logo=Gmail&logoColor=red&link=mailto:prasadmendon744@gmail.com)](mailto:prasadmendon744@gmail.com)
