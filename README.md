@@ -84,7 +84,6 @@ HTML                     1 repo              ██████░░░░░�
 - 👯 **I’m looking to collaborate on**:
 <a href="#"><img src="https://img.shields.io/badge/Open%20Source-cyan?style=plastic"></a>
 - 🤔 **I’m looking for help with** :
-![CodeChef Badge](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=plastic&logo=Codechef&logoColor=white)
 ![DevOps Badge](https://img.shields.io/badge/Azure_DevOps-0078D7?style=plastic&logo=azure-devops&logoColor=white)
 
 - 📫 **How to reach me**:
