@@ -7,7 +7,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6%20Thousand%20lines%20of%20code-blue)
 
@@ -52,17 +52,15 @@ Sunday       19 commits     ███████░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     7 hrs 58 mins       ████████████████████░░░░░   81.22% 
-XML                      1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.67% 
-JSON                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.12% 
-Markdown                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.9% 
-CLASS                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09%
+Java                     1 hr 42 mins        ███████████████████░░░░░░   76.88% 
+XML                      21 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.32% 
+HTML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.8%
 
 🔥 Editors: 
-IntelliJ                 9 hrs 49 mins       █████████████████████████   100.0%
+IntelliJ                 2 hrs 13 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  9 hrs 49 mins       █████████████████████████   100.0%
+Windows                  2 hrs 13 mins       █████████████████████████   100.0%
 
 ```
 
@@ -76,7 +74,7 @@ HTML                     1 repo              █████░░░░░░�
 
 
 
- Last Updated on 29/07/2022 00:55:48 UTC
+ Last Updated on 06/08/2022 00:53:28 UTC
 <!--END_SECTION:waka-->
 - 🌱 **I’m currently learning**:
 ![Selenium Badge](https://img.shields.io/badge/Selenium-43B02A?style=plastic&logo=Selenium&logoColor=white)
