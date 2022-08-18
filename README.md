@@ -5,7 +5,7 @@
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=plastic&logo=typescript&logoColor=white)
 ![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=java&logoColor=white)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-23%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-25%20hrs%2047%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -52,15 +52,16 @@ Sunday       19 commits     ███████░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     50 mins             ████████████░░░░░░░░░░░░░   51.35% 
-XML                      46 mins             ███████████░░░░░░░░░░░░░░   47.21% 
-GitIgnore file           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.44%
+Java                     2 hrs 29 mins       ████████████████░░░░░░░░░   66.81% 
+XML                      50 mins             █████░░░░░░░░░░░░░░░░░░░░   22.43% 
+Properties               22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.13% 
+GitIgnore file           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.64%
 
 🔥 Editors: 
-IntelliJ                 1 hr 15 mins        █████████████████████████   100.0%
+IntelliJ                 3 hrs 31 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  1 hr 15 mins        █████████████████████████   100.0%
+Windows                  3 hrs 31 mins       █████████████████████████   100.0%
 
 ```
 
@@ -74,7 +75,7 @@ HTML                     1 repo              █████░░░░░░�
 
 
 
- Last Updated on 15/08/2022 01:00:54 UTC
+ Last Updated on 18/08/2022 00:57:42 UTC
 <!--END_SECTION:waka-->
 - 🌱 **I’m currently learning**:
 ![Selenium Badge](https://img.shields.io/badge/Selenium-43B02A?style=plastic&logo=Selenium&logoColor=white)
