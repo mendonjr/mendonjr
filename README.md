@@ -5,7 +5,7 @@
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=plastic&logo=typescript&logoColor=white)
 ![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=java&logoColor=white)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-25%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-29%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -77,7 +77,7 @@ HTML                     1 repo              █████░░░░░░�
 
 
 
- Last Updated on 22/08/2022 00:54:52 UTC
+ Last Updated on 23/08/2022 01:03:07 UTC
 <!--END_SECTION:waka-->
 - 🌱 **I’m currently learning**:
 ![Selenium Badge](https://img.shields.io/badge/Selenium-43B02A?style=plastic&logo=Selenium&logoColor=white)
