@@ -52,17 +52,13 @@ Sunday       20 commits     ███████░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     2 hrs 4 mins        ███████████████░░░░░░░░░░   63.13% 
-JSON                     33 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.02% 
-Gherkin                  32 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.28% 
-XML                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.07% 
-Properties               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.44%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Eclipse                  3 hrs 16 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 hrs 16 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -76,7 +72,7 @@ HTML                     1 repo              █████░░░░░░�
 
 
 
- Last Updated on 28/08/2022 00:59:30 UTC
+ Last Updated on 29/08/2022 01:01:34 UTC
 <!--END_SECTION:waka-->
 - 🌱 **I’m currently learning**:
 ![Selenium Badge](https://img.shields.io/badge/Selenium-43B02A?style=plastic&logo=Selenium&logoColor=white)
