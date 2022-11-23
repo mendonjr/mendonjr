@@ -5,7 +5,7 @@
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=plastic&logo=typescript&logoColor=white)
 ![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=java&logoColor=white)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-29%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-29%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -15,7 +15,7 @@
 
 > 🏆 87 Contributions in the Year 2022
  > 
-> 📦 12.8 kB Used in GitHub's Storage 
+> 📦 12.7 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -74,7 +74,7 @@ HTML                     1 repo              █████░░░░░░�
 
 
 
- Last Updated on 22/11/2022 00:54:51 UTC
+ Last Updated on 23/11/2022 00:45:57 UTC
 <!--END_SECTION:waka-->
 - 🌱 **I’m currently learning**:
 ![Selenium Badge](https://img.shields.io/badge/Selenium-43B02A?style=plastic&logo=Selenium&logoColor=white)
