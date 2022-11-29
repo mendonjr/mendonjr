@@ -52,15 +52,13 @@ Sunday       20 commits     ███████░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    0 secs              █████████████░░░░░░░░░░░░   51.8% 
-Markdown                 0 secs              ███████████░░░░░░░░░░░░░░   44.28% 
-Git Config               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   3.92%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 min               █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 min               █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -74,7 +72,7 @@ HTML                     1 repo              █████░░░░░░�
 
 
 
- Last Updated on 28/11/2022 00:44:56 UTC
+ Last Updated on 29/11/2022 00:47:56 UTC
 <!--END_SECTION:waka-->
 - 🌱 **I’m currently learning**:
 ![Selenium Badge](https://img.shields.io/badge/Selenium-43B02A?style=plastic&logo=Selenium&logoColor=white)
