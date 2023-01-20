@@ -15,7 +15,7 @@
 
 > 🏆 0 Contributions in the Year 2023
  > 
-> 📦 12.7 kB Used in GitHub's Storage 
+> 📦 12.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -72,7 +72,7 @@ HTML                     1 repo              █████░░░░░░�
 
 
 
- Last Updated on 19/01/2023 00:46:00 UTC
+ Last Updated on 20/01/2023 00:45:34 UTC
 <!--END_SECTION:waka-->
 - 🌱 **I’m currently learning**:
 ![Selenium Badge](https://img.shields.io/badge/Selenium-43B02A?style=plastic&logo=Selenium&logoColor=white)
