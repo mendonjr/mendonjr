@@ -9,47 +9,45 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.0%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 0 Contributions in the Year 2023
- > 
 > 📦 12.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 10 Public Repositories 
  > 
-> 🔑 1 Private Repository 
+> 🔑 1 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning       24 commits       █████████░░░░░░░░░░░░░░░░   35.82 % 
-🌆 Daytime       34 commits       ████████████░░░░░░░░░░░░░   50.75 % 
-🌃 Evening        9 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
-🌙 Night          0 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
+🌞 Morning                24 commits          █████████░░░░░░░░░░░░░░░░   35.82 % 
+🌆 Daytime                34 commits          █████████████░░░░░░░░░░░░   50.75 % 
+🌃 Evening                9 commits           ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday           7 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
-Tuesday         16 commits       ██████░░░░░░░░░░░░░░░░░░░   23.88 % 
-Wednesday        6 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
-Thursday         2 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
-Friday           4 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
-Saturday        12 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
-Sunday          20 commits       ███████░░░░░░░░░░░░░░░░░░   29.85 % 
-
+Monday                   7 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
+Tuesday                  16 commits          ██████░░░░░░░░░░░░░░░░░░░   23.88 % 
+Wednesday                6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
+Thursday                 2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+Friday                   4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
+Saturday                 12 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
+Sunday                   20 commits          ███████░░░░░░░░░░░░░░░░░░   29.85 % 
 ```
 
 
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Asia/Kolkata
+🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
 No Activity Tracked This Week
@@ -59,7 +57,6 @@ No Activity Tracked This Week
 
 💻 Operating System: 
 No Activity Tracked This Week
-
 ```
 
 **I Mostly Code in Java** 
@@ -67,12 +64,12 @@ No Activity Tracked This Week
 ```text
 Java                     4 repos             ████████████████████░░░░░   80.00 % 
 HTML                     1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-
 ```
 
 
 
- Last Updated on 22/02/2023 00:42:04 UTC
+
+ Last Updated on 23/02/2023 00:43:20 UTC
 <!--END_SECTION:waka-->
 - 🌱 **I’m currently learning**:
 ![Selenium Badge](https://img.shields.io/badge/Selenium-43B02A?style=plastic&logo=Selenium&logoColor=white)
