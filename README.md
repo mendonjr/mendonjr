@@ -7,7 +7,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-29%20hrs%2017%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19.3%20thousand%20lines%20of%20code-blue)
 
@@ -69,7 +69,7 @@ HTML                     1 repo              █████░░░░░░�
 
 
 
- Last Updated on 14/05/2023 00:43:08 UTC
+ Last Updated on 15/05/2023 00:41:52 UTC
 <!--END_SECTION:waka-->
 - 🌱 **I’m currently learning**:
 ![Selenium Badge](https://img.shields.io/badge/Selenium-43B02A?style=plastic&logo=Selenium&logoColor=white)
