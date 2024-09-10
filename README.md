@@ -5,6 +5,8 @@
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=plastic&logo=typescript&logoColor=white)
 ![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=java&logoColor=white)
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-29%20hrs%2017%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19.3%20thousand%20lines%20of%20code-blue)
@@ -21,6 +23,42 @@
  > 
 > 🔑 1 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                39 commits          ████████░░░░░░░░░░░░░░░░░   33.91 % 
+🌆 Daytime                64 commits          ██████████████░░░░░░░░░░░   55.65 % 
+🌃 Evening                12 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
+Tuesday                  29 commits          ██████░░░░░░░░░░░░░░░░░░░   25.22 % 
+Wednesday                10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+Thursday                 7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
+Friday                   7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
+Saturday                 18 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
+Sunday                   37 commits          ████████░░░░░░░░░░░░░░░░░   32.17 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Java** 
 
 ```text
@@ -31,7 +69,7 @@ HTML                     1 repo              █████░░░░░░�
 
 
 
- Last Updated on 09/09/2024 00:49:30 UTC
+ Last Updated on 10/09/2024 00:47:10 UTC
 <!--END_SECTION:waka-->
 - 🌱 **I’m currently learning**:
 ![Selenium Badge](https://img.shields.io/badge/Selenium-43B02A?style=plastic&logo=Selenium&logoColor=white)
