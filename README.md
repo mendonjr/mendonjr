@@ -7,13 +7,15 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-29%20hrs%2017%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.1%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 13.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 20 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -68,7 +70,7 @@ HTML                     1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 09/12/2024 00:57:22 UTC
+ Last Updated on 10/12/2024 00:56:33 UTC
 <!--END_SECTION:waka-->
 - 🌱 **I’m currently learning**:
 ![Selenium Badge](https://img.shields.io/badge/Selenium-43B02A?style=plastic&logo=Selenium&logoColor=white)
