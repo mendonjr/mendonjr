@@ -15,6 +15,8 @@
 
 > 📦 13.1 kB Used in GitHub's Storage 
  > 
+> 🏆 0 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 11 Public Repositories 
@@ -68,7 +70,7 @@ HTML                     1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 14/08/2025 01:01:39 UTC
+ Last Updated on 15/08/2025 01:01:50 UTC
 <!--END_SECTION:waka-->
 - 🌱 **I’m currently learning**:
 ![Selenium Badge](https://img.shields.io/badge/Selenium-43B02A?style=plastic&logo=Selenium&logoColor=white)
