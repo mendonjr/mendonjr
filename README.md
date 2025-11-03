@@ -21,6 +21,42 @@
  > 
 > 🔑 1 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                39 commits          ███████░░░░░░░░░░░░░░░░░░   28.89 % 
+🌆 Daytime                81 commits          ███████████████░░░░░░░░░░   60.00 % 
+🌃 Evening                15 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+Tuesday                  33 commits          ██████░░░░░░░░░░░░░░░░░░░   24.44 % 
+Wednesday                12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+Thursday                 16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+Friday                   7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
+Saturday                 19 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
+Sunday                   38 commits          ███████░░░░░░░░░░░░░░░░░░   28.15 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Java** 
 
 ```text
@@ -32,7 +68,7 @@ HTML                     1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 02/11/2025 01:01:36 UTC
+ Last Updated on 03/11/2025 01:00:47 UTC
 <!--END_SECTION:waka-->
 - 🌱 **I’m currently learning**:
 ![Selenium Badge](https://img.shields.io/badge/Selenium-43B02A?style=plastic&logo=Selenium&logoColor=white)
